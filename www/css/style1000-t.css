@@ -1,0 +1,16 @@
+* {font-size:24pt;}
+
+/* <иконки на главной в линию> */
+#iconsMain div { width:18%; }
+#iconsMain a, #iconsMain p { font-size:80%; }
+#iconsMain div#iconMain01 { width:28%; }
+#iconsMain div#iconMain01 a, #iconsMain div#iconMain01 p { font-size:90%; }
+/* </иконки на главной в линию> */
+
+.newsWidth, .photoWide {margin-left:1em;}
+
+.sub3 li { width:30%;}
+
+.actionlist li { min-height:114px; padding-left:140px; }
+.actionlist img { width:114px; margin-left:-140px; }
+.accordionItem .actionlist li { padding-left: 140px; min-height:114px; }

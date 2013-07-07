@@ -1,0 +1,9 @@
+td#header-name1, td#header-name2 { white-space:normal; padding-top:0.5em; }
+
+td.nav-img { display:none; }
+
+div#content { padding: 0;  margin-left:0; }
+aside#sideLeft { display:none; }
+
+nav#footer-nav { margin: 0; }
+div#footer-copyright { margin-left:0; margin-right:0; padding-left:0; padding-right:0; }

@@ -1,0 +1,10 @@
+header#header { height: 100px; }
+div#header-arrow { height: 100px; }
+td.header-logo img { width:100px; }
+td#header-name1, td#header-name2 { font-size:2em; padding-top:0.2em; line-height:0.9em; }
+span.header-name2 { letter-spacing: 0.05em; padding-right:1.55em; }
+span#header-phone, span#header-about { line-height:1.5em; display:block; }
+span#header-phone { font-size: 0.7em; } 
+span#header-about { font-size: 0.6em; }
+
+nav#nav { font-size: 0.6em; }
